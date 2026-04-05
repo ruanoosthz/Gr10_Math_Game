@@ -1,2 +1,10 @@
-# Gr10_Math_Game
-A math game that I did as my IT PAT in grade 10. It only features multiplication.
+# 60 Second Scatter
+
+This project features a multiplication game I created as an IT Practical Assessment in grade 10.
+
+---
+
+You read the rules, choose a character and... you're in!
+
+
+#### Can you achieve the top performance?
