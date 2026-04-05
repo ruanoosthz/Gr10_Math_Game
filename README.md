@@ -7,6 +7,6 @@ This project features a multiplication game I created as an IT Practical Assessm
 You read the rules, choose a character and... you're in!
 
 
-* Can you achieve the top performance? *
+*Can you achieve the top performance?*
 
 ~ Ruan Oosthuizen
