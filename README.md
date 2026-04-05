@@ -13,6 +13,8 @@ The sums will be generated randomly, and the user will then have to enter the co
 - A screen where the game will be played is on the last 'tabsheet'.
 - While the user plays the game, their score and how much time they have left will be displayed.
 - An end screen that shows how the user performed by showing how many questions the user answered correctly and how many questions the user answered incorrectly, as well as what achievement they obtained.
+<img width="686" height="817" alt="image" src="https://github.com/user-attachments/assets/989e8280-2514-4539-b048-f0236f33e4ad" />
+
 
 ## Task - 1b
 
@@ -52,6 +54,7 @@ The sums will be generated randomly, and the user will then have to enter the co
 | 2. User presses 'Lock In' button. | Randomly generate a question and format it according to an input box. | The question is displayed on the screen via an input box. |
 | 3. User answers the question by entering the answer into the input box. | The answer is checked to see if it is correct. | Display score in the 'score' area. |
 
+---
 
 *Can you achieve the top performance?*
 
